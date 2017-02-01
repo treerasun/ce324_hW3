@@ -12,11 +12,13 @@ There are 3 files in this repository.
 In order to complete this HW-3, you must do the following:
 
 -- Preparation -----
+
 1. Sign in and create your account using your name and surname at GitHub (https://github.com). For example, I create account "wisarn_patchoo".
 
 2. Read document about how to basically use GitHub.
 
 -- HomeWork-3 ----
+
 1. Log in at GitHub with your account.
 
 2. Fork the GitHub repository containing the stub R files at https://github.com/wisarn/BUEng-CE324-2-2559-HW3.git to create a copy under your own account.
