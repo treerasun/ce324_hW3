@@ -13,13 +13,19 @@ In order to complete this HW-3, you must do the following:
 
 -- Preparation -----
 1. Sign in and create your account using your name and surname at GitHub (https://github.com). For example, I create account "wisarn_patchoo".
+
 2. Read document about how to basically use GitHub.
 
 -- HomeWork-3 ----
 1. Log in at GitHub with your account.
+
 2. Fork the GitHub repository containing the stub R files at https://github.com/wisarn/BUEng-CE324-2-2559-HW3.git to create a copy under your own account.
+
 3. Clone your forked GitHub repository to your computer so that you can edit the files locally on your own machine.
+
 4. Edit code_template.html file contained in the git repository based on instruction steps in HW-3.docx (DO NOT rename the file).
+
 5. Commit your code_template.html file into YOUR git repository and push your git branch to the GitHub repository under your account.
+
 6. Submit the URL to your GitHub repository that contains the code_template.html for the assignment in CE324 Group Facebook.
 
