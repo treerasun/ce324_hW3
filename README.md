@@ -3,8 +3,7 @@ This repository is for HW-3 in CE-324 class at School of Engineering, Bangkok Un
 
 There are 3 files in this repository. 
 
-	- HW-3.docx - contains "Basic Steps in Three.js in Creating 3D Scene" that you have to try following the steps in order to learn 
-	Three.js. Also, There are Assignment at the end of document. You MUST finish it.
+	- HW-3.docx - contains "Basic Steps in Three.js in Creating 3D Scene" that you have to try following the steps in order to learn Three.js. Also, There are Assignment at the end of document. You MUST finish it.
 
 	- code_template.html - file template in HTML format that you have to use in order to follow the instruction in HW-3.docx.
 
